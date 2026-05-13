@@ -1,73 +1,141 @@
-Privacy Policy
-This privacy policy applies to the KPSS Canavarı app (hereby referred to as "Application") for mobile devices that was created by Ali Murat Kalaycı (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+🇹🇷 TÜRKÇE
+Gizlilik Politikası
 
+Bu gizlilik politikası, KPSS Canavarı uygulaması (bundan sonra “Uygulama”) için geçerlidir. Uygulama, Ali Murat Kalaycı tarafından geliştirilmiş olup reklam destekli bir hizmettir. “Olduğu gibi (AS IS)” sunulmaktadır.
+
+Bilgi Toplama ve Kullanım
+
+Uygulama, kullanıcıdan doğrudan kişisel bilgi (isim, e-posta, telefon vb.) toplamaz veya talep etmez.
+
+Ancak uygulama, hizmet kalitesini artırmak ve reklam gösterimi sağlamak amacıyla anonim ve otomatik bazı teknik verileri toplayabilir:
+
+Cihaz bilgileri (model, işletim sistemi sürümü)
+IP adresi (genel analiz amaçlı)
+Uygulama kullanım istatistikleri (ekran görüntüleme, kullanım süresi vb.)
+Çökme (crash) raporları
+Reklam etkileşim verileri
+
+Bu veriler kişisel kimlik belirlemek için kullanılmaz.
+
+Veri Kaynakları ve Üçüncü Taraf Servisler
+
+Uygulama aşağıdaki servisleri kullanır:
+
+Google Firebase Analytics
+Firebase Crashlytics
+Firebase Storage (içerik ve soruların sunulması için)
+Google AdMob (reklam gösterimi için)
+
+Bu servislerin kendi gizlilik politikaları geçerlidir.
+
+Veri Kullanım Amacı
+
+Toplanan anonim veriler şu amaçlarla kullanılır:
+
+Uygulama performansını geliştirmek
+Hataları tespit etmek ve gidermek
+Reklam gösterimini sağlamak
+Kullanıcı deneyimini iyileştirmek
+Uygulama İçeriği ve Yapay Zeka Kullanımı
+
+Uygulama içerisindeki bazı sorular ve içerikler, yapay zeka destekli sistemler kullanılarak otomatik olarak oluşturulmuş veya sentezlenmiş olabilir.
+
+Bu içerikler:
+
+Kullanıcı verilerine dayanmaz
+Kişiselleştirilmiş değildir
+Kullanıcı davranışına göre özel olarak üretilmez
+Veri Saklama
+
+Veriler, hizmet sağlanması için gerekli olduğu sürece saklanabilir ve gerektiğinde anonim hale getirilir veya silinir.
+
+Çocukların Gizliliği
+
+Uygulama 13 yaş altı kullanıcıları hedeflemez ve bilerek kişisel veri toplamaz.
+
+Güvenlik
+
+Veriler, Firebase ve Google altyapısı tarafından sağlanan güvenlik standartları ile korunmaktadır.
+
+Değişiklikler
+
+Bu gizlilik politikası zaman zaman güncellenebilir ve değişiklikler bu sayfada yayınlanır.
+
+İletişim
+
+📧 alimuratkalayci@outlook.com
+
+Yürürlük Tarihi
+
+14 Mayıs 2026
+
+🇬🇧 ENGLISH
+Privacy Policy
+
+This Privacy Policy applies to the KPSS Canavarı application (hereinafter referred to as the “Application”), developed by Ali Murat Kalaycı as an ad-supported service. The Application is provided “AS IS”.
 
 Information Collection and Use
-The Application collects information when you download and use it. This information may include information such as
 
-Your device's Internet Protocol address (e.g. IP address)
-The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-The time spent on the Application
-The operating system you use on your mobile device
+The Application does not collect or request any directly identifiable personal information such as name, email address, or phone number.
 
-The Application does not gather precise information about the location of your mobile device.
+However, the Application may collect certain anonymized technical data automatically to improve service quality and deliver advertisements, including:
 
+Device information (model, operating system version)
+IP address (for general analytics purposes)
+Application usage statistics (screens viewed, time spent, etc.)
+Crash reports
+Advertising interaction data
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+This data is not used to personally identify users.
 
+Third-Party Services
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+The Application uses the following services:
 
-
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
-
-
-Third Party Access
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
-
-
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
-
-AdMob
-Google Analytics for Firebase
+Google Firebase Analytics
 Firebase Crashlytics
+Firebase Storage (for delivering content and questions)
+Google AdMob (for advertisements)
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+Each service has its own privacy policy.
 
-as required by law, such as to comply with a subpoena, or similar legal process;
-when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+Purpose of Data Use
 
-Opt-Out Rights
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+The collected anonymized data is used for:
 
+Improving application performance
+Identifying and fixing errors
+Serving advertisements
+Enhancing user experience
+Application Content and AI Usage
 
-Data Retention Policy
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at alimuratkalayci@outlook.com and they will respond in a reasonable time.
+Some questions and content within the Application may be generated or synthesized using artificial intelligence-based systems.
 
+This content:
 
-Children
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+Is not based on user data
+Is not personalized
+Is not generated based on user behavior
+Data Retention
 
+Data may be retained as long as necessary to provide services and may be deleted or anonymized when no longer required.
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (alimuratkalayci@outlook.com) so that they will be able to take the necessary actions.
+Children’s Privacy
 
+The Application is not intended for users under the age of 13 and does not knowingly collect personal data from children.
 
 Security
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
+Data is protected using industry-standard security measures provided by Firebase and Google infrastructure.
 
-Changes
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+Changes to This Policy
 
+This Privacy Policy may be updated from time to time. Changes will be posted on this page.
 
-This privacy policy is effective as of 2026-05-13
+Contact
 
+📧 alimuratkalayci@outlook.com
 
-Your Consent
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+Effective Date
 
-
-Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at alimuratkalayci@outlook.com.
-
+May 14, 2026
