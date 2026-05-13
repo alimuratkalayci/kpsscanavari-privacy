@@ -1,13 +1,13 @@
 🇹🇷 TÜRKÇE
 Gizlilik Politikası
 
-Bu gizlilik politikası, KPSS Canavarı uygulaması (bundan sonra “Uygulama”) için geçerlidir. Uygulama, Ali Murat Kalaycı tarafından geliştirilmiş olup reklam destekli bir hizmettir. “Olduğu gibi (AS IS)” sunulmaktadır.
+Bu gizlilik politikası, KPSS Canavarı uygulaması (“Uygulama”) için geçerlidir. Uygulama, Ali Murat Kalaycı tarafından geliştirilmiş olup reklam destekli bir eğitim uygulamasıdır. “Olduğu gibi (AS IS)” sunulmaktadır.
 
 Bilgi Toplama ve Kullanım
 
 Uygulama, kullanıcıdan doğrudan kişisel bilgi (isim, e-posta, telefon vb.) toplamaz veya talep etmez.
 
-Ancak uygulama, hizmet kalitesini artırmak ve reklam gösterimi sağlamak amacıyla anonim ve otomatik bazı teknik verileri toplayabilir:
+Ancak uygulama, hizmet kalitesini artırmak ve reklam gösterimi sağlamak amacıyla anonim teknik verileri otomatik olarak toplayabilir:
 
 Cihaz bilgileri (model, işletim sistemi sürümü)
 IP adresi (genel analiz amaçlı)
@@ -17,7 +17,7 @@ Reklam etkileşim verileri
 
 Bu veriler kişisel kimlik belirlemek için kullanılmaz.
 
-Veri Kaynakları ve Üçüncü Taraf Servisler
+Üçüncü Taraf Servisler
 
 Uygulama aşağıdaki servisleri kullanır:
 
@@ -38,16 +38,33 @@ Reklam gösterimini sağlamak
 Kullanıcı deneyimini iyileştirmek
 Uygulama İçeriği ve Yapay Zeka Kullanımı
 
-Uygulama içerisindeki bazı sorular ve içerikler, yapay zeka destekli sistemler kullanılarak otomatik olarak oluşturulmuş veya sentezlenmiş olabilir.
+Uygulama içerisindeki bazı içerikler ve sorular, yapay zeka destekli sistemler kullanılarak oluşturulmuş veya sentezlenmiş olabilir.
 
 Bu içerikler:
 
 Kullanıcı verilerine dayanmaz
 Kişiselleştirilmiş değildir
-Kullanıcı davranışına göre özel olarak üretilmez
+Kullanıcı davranışına göre üretilmez
+Yasal Uyarı ve İçerik Sorumluluk Reddi
+
+KPSS Canavarı uygulaması, KPSS sınavına hazırlık amacıyla geliştirilmiş bağımsız bir eğitim uygulamasıdır. Uygulama, ÖSYM, Milli Eğitim Bakanlığı veya herhangi bir resmi devlet kurumu ile bağlantılı değildir, bu kurumlar tarafından desteklenmemekte veya onaylanmamaktadır.
+
+İçerik ve Soru Yapısı
+
+Uygulama içerisinde yer alan yaklaşık 15.000+ soru ve içerik, yapay zeka destekli sistemler kullanılarak oluşturulmuş veya sentezlenmiştir. Tüm içerikler geliştirici tarafından kontrol edilmekte olsa da, hata, eksiklik veya güncellik sorunları içerebilir.
+
+Bu nedenle:
+
+Soruların tamamı resmi veya doğrulanmış sınav soruları değildir
+Hatalar veya eksiklikler bulunabilir
+Resmi bilgi için ÖSYM ve MEB kaynakları esas alınmalıdır
+Kullanım Amacı
+
+Uygulama yalnızca eğitim ve pratik amaçlıdır. Resmi sınav başvurusu, belge veya kamu hizmeti sunmaz.
+
 Veri Saklama
 
-Veriler, hizmet sağlanması için gerekli olduğu sürece saklanabilir ve gerektiğinde anonim hale getirilir veya silinir.
+Veriler, hizmet sağlandığı sürece saklanabilir ve gerektiğinde anonim hale getirilir veya silinir.
 
 Çocukların Gizliliği
 
@@ -55,7 +72,7 @@ Uygulama 13 yaş altı kullanıcıları hedeflemez ve bilerek kişisel veri topl
 
 Güvenlik
 
-Veriler, Firebase ve Google altyapısı tarafından sağlanan güvenlik standartları ile korunmaktadır.
+Veriler Firebase ve Google altyapısı tarafından korunmaktadır.
 
 Değişiklikler
 
@@ -72,13 +89,13 @@ Yürürlük Tarihi
 🇬🇧 ENGLISH
 Privacy Policy
 
-This Privacy Policy applies to the KPSS Canavarı application (hereinafter referred to as the “Application”), developed by Ali Murat Kalaycı as an ad-supported service. The Application is provided “AS IS”.
+This Privacy Policy applies to the KPSS Canavarı application (“Application”), developed by Ali Murat Kalaycı as an ad-supported educational service. The Application is provided “AS IS”.
 
 Information Collection and Use
 
-The Application does not collect or request any directly identifiable personal information such as name, email address, or phone number.
+The Application does not request or collect any directly identifiable personal information such as name, email address, or phone number.
 
-However, the Application may collect certain anonymized technical data automatically to improve service quality and deliver advertisements, including:
+However, the Application may automatically collect anonymized technical data to improve service quality and serve advertisements, including:
 
 Device information (model, operating system version)
 IP address (for general analytics purposes)
@@ -86,15 +103,15 @@ Application usage statistics (screens viewed, time spent, etc.)
 Crash reports
 Advertising interaction data
 
-This data is not used to personally identify users.
+This data is not used to identify users personally.
 
 Third-Party Services
 
-The Application uses the following services:
+The Application uses:
 
 Google Firebase Analytics
 Firebase Crashlytics
-Firebase Storage (for delivering content and questions)
+Firebase Storage (for content and questions)
 Google AdMob (for advertisements)
 
 Each service has its own privacy policy.
@@ -104,18 +121,35 @@ Purpose of Data Use
 The collected anonymized data is used for:
 
 Improving application performance
-Identifying and fixing errors
+Fixing errors
 Serving advertisements
 Enhancing user experience
 Application Content and AI Usage
 
-Some questions and content within the Application may be generated or synthesized using artificial intelligence-based systems.
+Some content and questions within the Application may be generated or synthesized using artificial intelligence-based systems.
 
 This content:
 
 Is not based on user data
 Is not personalized
 Is not generated based on user behavior
+Disclaimer and Content Responsibility
+
+KPSS Canavarı is an independent educational application for exam preparation purposes. It is not affiliated with, endorsed by, or connected to any government institution, including ÖSYM or the Ministry of National Education.
+
+Content and Question Structure
+
+Approximately 15,000+ questions and content are generated or synthesized using AI-assisted systems. While the content is reviewed by the developer, it may contain errors, omissions, or outdated information.
+
+Therefore:
+
+Not all questions are official or verified exam questions
+Errors or inaccuracies may exist
+Official sources such as ÖSYM should be considered authoritative
+Purpose of Use
+
+This application is intended for educational and practice purposes only. It does not provide official exam services or documentation.
+
 Data Retention
 
 Data may be retained as long as necessary to provide services and may be deleted or anonymized when no longer required.
@@ -126,7 +160,7 @@ The Application is not intended for users under the age of 13 and does not knowi
 
 Security
 
-Data is protected using industry-standard security measures provided by Firebase and Google infrastructure.
+Data is protected using Firebase and Google infrastructure security standards.
 
 Changes to This Policy
 
