@@ -1,0 +1,61 @@
+# Privacy Policy
+
+Last updated: May 14, 2026
+
+This Privacy Policy explains how the application collects, uses, and protects user information.
+
+## Information Collection and Use
+
+The app may collect certain information automatically, including but not limited to:
+
+- Device information
+- App usage statistics
+- Crash reports
+- Advertising identifiers
+- Performance and analytics data
+
+This information is used to improve app performance, user experience, and application stability.
+
+## Advertising
+
+This application uses Google AdMob to display advertisements. AdMob may collect and use data to provide personalized or non-personalized ads.
+
+For more information:
+https://policies.google.com/technologies/ads
+
+## Analytics
+
+The application may use Firebase Analytics and Firebase Crashlytics to monitor application performance and crashes.
+
+Collected analytics data may include:
+- Device model
+- Operating system version
+- Usage duration
+- Screen interactions
+- Crash logs
+
+## In-App Purchases
+
+The application may offer premium content or features through in-app purchases handled by Google Play. Payment information is processed securely by Google Play and is not stored by the application.
+
+## Notifications
+
+The app may send local notifications related to study reminders or app functionality. Users can disable notifications through device settings at any time.
+
+## Data Security
+
+Reasonable measures are taken to protect user information and improve application security.
+
+## Children's Privacy
+
+This application is not directed to children under the age of 13.
+
+## Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Changes will be reflected on this page.
+
+## Contact
+
+If you have any questions or suggestions about this Privacy Policy, you may contact us at:
+
+yourmail@example.com
